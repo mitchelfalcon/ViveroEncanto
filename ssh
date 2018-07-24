@@ -1,0 +1,19 @@
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home4/viveroen/.ssh/id_rsa.
+Your public key has been saved in /home4/viveroen/.ssh/id_rsa.pub.
+The key fingerprint is:
+9e:7a:5e:50:8e:92:41:c9:08:c1:c7:2a:bb:b1:69:e1 
+The key's randomart image is:
++--[ RSA 2048]----+
+| .o+ o..         |
+|  . +.o          |
+|   o  .   .      |
+|. .    o +       |
+| o    o S .      |
+|o.     o o       |
+|.=.     o .      |
+|+E     ...       |
+|.     .o.        |
++-----------------+
